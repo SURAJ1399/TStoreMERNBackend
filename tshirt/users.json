@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5fb985c9b2739c1fa0a33a12"), 
+    "role" : NumberInt(0), 
+    "purchases" : [
+
+    ], 
+    "name" : "ggggchgh", 
+    "email" : "s@gmail.com", 
+    "salt" : "1421ca60-2c40-11eb-8fff-294d9de17fa7", 
+    "encry_password" : "af83983af26558482d5dcd657c5dd63c01b64ac4c2b4ac4e5677390d763765ca", 
+    "createdAt" : ISODate("2020-11-21T21:25:29.243+0000"), 
+    "updatedAt" : ISODate("2020-11-21T21:25:29.243+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fb986057a3f0f3798d2012b"), 
+    "role" : NumberInt(0), 
+    "purchases" : [
+
+    ], 
+    "name" : "ggggchgh", 
+    "email" : "sf@gmail.com", 
+    "salt" : "3849ecb0-2c40-11eb-af4b-397a6d735f1f", 
+    "encry_password" : "684d54c8159271052acc7a231f03ebe66df1d5692252eec8cc364a724eb5d48e", 
+    "createdAt" : ISODate("2020-11-21T21:26:29.884+0000"), 
+    "updatedAt" : ISODate("2020-11-21T21:26:29.884+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fb98e117a3f0f3798d2012c"), 
+    "role" : NumberInt(1), 
+    "purchases" : [
+
+    ], 
+    "name" : "Suraj", 
+    "email" : "suraj@gmail.com", 
+    "salt" : "03e95140-2c45-11eb-af4b-397a6d735f1f", 
+    "encry_password" : "843ec50b8ac466a4b4b31415410453bdf77f1cc74b9718e9eb9ddf571ba77594", 
+    "createdAt" : ISODate("2020-11-21T22:00:49.493+0000"), 
+    "updatedAt" : ISODate("2020-11-21T22:00:49.493+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5fbc18a7ea0eff3520fe5b9a"), 
+    "role" : NumberInt(0), 
+    "purchases" : [
+
+    ], 
+    "name" : "vjhbv", 
+    "email" : "mbb@gmail.com", 
+    "salt" : "cb361380-2dc8-11eb-9087-5b3fddc2d6a9", 
+    "encry_password" : "37e3e9e6f0c89e66eb846af72d3df36c620a292296e5d2980061e3a002ed55fc", 
+    "createdAt" : ISODate("2020-11-23T20:16:39.121+0000"), 
+    "updatedAt" : ISODate("2020-11-23T20:16:39.121+0000"), 
+    "__v" : NumberInt(0)
+}
